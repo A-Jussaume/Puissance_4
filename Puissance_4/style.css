@@ -1,0 +1,26 @@
+
+body{
+    text-align: center;
+}
+
+#puissance4
+{
+    display: inline-block;
+    margin: auto;
+    background-color: blue;
+}
+
+.column
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: white;
+    margin: 5px;
+    display: inline-block;
+}
+
+/* #player2
+{
+    display: none;
+} */
